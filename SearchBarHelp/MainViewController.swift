@@ -35,7 +35,7 @@ class MainViewController: UITableViewController {
     
     //MARK: - Segue setup
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        
+        /* Put any preparation here if needed */
     }
     
     //MARK: Navbar Button action
